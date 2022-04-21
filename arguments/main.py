@@ -30,6 +30,8 @@ def force(mass, body='earth'):
     return bodies[body] * mass
 
 
+# Part 3: Gravity
+
 def pull(m1, m2, d):
     G = 6.674 * 10 ** -11
     return G * ( (m1 * m2 ) / d ** 2 )
