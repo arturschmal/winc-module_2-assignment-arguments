@@ -1,6 +1,6 @@
 # Arguments assignment
 
-### Assignment for the Back-end Development course at Winc Academy.
+### Assignment for the Back-end Development course at Winc Academy:
 
 
 **Part 1: Greet Template**
