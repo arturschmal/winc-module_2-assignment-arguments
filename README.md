@@ -7,8 +7,8 @@
 
 Define a function greet in main.py that takes these arguments, in this order:
 
-- A name (str)
-- A greeting template (str). Set this template parameter to 'Hello, <name>!' by default.
+- A name (`str`)
+- A greeting template (`str`). Set this template parameter to 'Hello, <name>!' by default.
 
 `greet` should return a string where <name> in the greeting template is replaced by the name given in the first parameter.
 
