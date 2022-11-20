@@ -15,7 +15,7 @@ Define a function greet in main.py that takes these arguments, in this order:
  
 **Part 2: Force**
 
-Write a function force that takes two arguments:
+Write a function `force` that takes two arguments:
 
 - `mass` (`float`)
 - `body` (`str`), with `'earth'` as its default. Your implementation should support all 11 bodies listed on the reference website given above (in lowercase). Make sure you process these bodies with the correlated gravity factor in a dictionary. Before using the gravity of a celestial body round its gravity factor to 1 decimal. You can "hardcode" this, for example: the gravity of Earth becomes 9.8.
@@ -25,7 +25,7 @@ The arguments should be named exactly as listed so that we can call them with ke
 
 **Part 3: Gravity**
 
-Write a function pull that takes three arguments:
+Write a function `pull` that takes three arguments:
 
 - `m1` An object's mass in kg (`float`)
 - `m2` Another object's mass in kg (`float`)
